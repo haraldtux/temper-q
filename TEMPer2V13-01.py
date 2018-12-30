@@ -6,6 +6,7 @@
    USB IDs 413d:2107 , TEMPer2V1.3
 
        https://github.com/marook/temper-q
+       https://github.com/haraldtux/temper-q
 
        Requirements
        You need hidaip wrappers for python. Install on debian for example via
