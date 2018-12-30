@@ -1,12 +1,17 @@
 #!/usr/bin/python3
-#
-#
-# ^H> HucDuino 18-12-2018
-#
-## USB IDs 413d:2107 , TEMPer2V1.3
-#
-## https://github.com/marook/temper-q
-#
+
+'''
+   ^H> HucDuino 30-12-2018
+
+   USB IDs 413d:2107 , TEMPer2V1.3
+
+       https://github.com/marook/temper-q
+       https://github.com/haraldtux/temper-q
+
+       Requirements
+       You need hidaip wrappers for python. Install on debian for example via
+       $ apt install python3-hidapi
+''' 
 
 color1 = '\033[1;34;40m' # blue
 color2 = '\033[1;31;40m' # red
